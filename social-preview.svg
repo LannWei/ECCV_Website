@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#002147" />
+      <stop offset="100%" stop-color="#003E74" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="70" y="86" width="220" height="8" rx="4" fill="#EC7300" />
+  <rect x="820" y="120" width="260" height="260" rx="24" fill="none" stroke="#EC7300" stroke-width="10" opacity="0.75" />
+  <rect x="910" y="210" width="180" height="180" rx="24" fill="none" stroke="#d7e5f5" stroke-width="10" opacity="0.9" />
+  <text x="70" y="195" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">
+    YourWorkshopName
+  </text>
+  <text x="70" y="270" fill="#d7e5f5" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="600">
+    ECCV 2026 Workshop
+  </text>
+  <text x="70" y="340" fill="#f8f4ef" font-family="Inter, Arial, sans-serif" font-size="34">
+    September 8–9, 2026 • Malmo, Sweden
+  </text>
+  <text x="70" y="455" fill="#d7e5f5" font-family="Inter, Arial, sans-serif" font-size="28">
+    Call for papers • Program • Invited speakers • Registration
+  </text>
+  <rect x="70" y="500" width="280" height="62" rx="31" fill="#EC7300" />
+  <text x="140" y="542" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">
+    Submit Now
+  </text>
+</svg>
